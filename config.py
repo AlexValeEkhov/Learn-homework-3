@@ -1,0 +1,7 @@
+CSV_BUS_FILE = 'bus_stops.csv'
+CSV_BUS_FILE_ENCODING = 'windows-1251'
+JSON_BUS_FILE = 'bus_stops.json'
+JSON_BUS_FILE_ENCODING = 'cp1251'
+JSON_SUB_FILE = 'subway.json'
+JSON_SUB_FILE_ENCODING = 'cp1251'
+STREETS_NUM = 5
